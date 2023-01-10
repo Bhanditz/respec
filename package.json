@@ -93,7 +93,7 @@
     "loading-indicator": "^2.0.0",
     "marked": "^0.6.0",
     "prompt": "^1.0.0",
-    "puppeteer": "^1.11.0",
+    "puppeteer": "^3.0.0",
     "snyk": "^1.121.1"
   },
   "prettier": {
