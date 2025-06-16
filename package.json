@@ -92,9 +92,9 @@
     "hyperhtml": "^2.23.0",
     "loading-indicator": "^2.0.0",
     "marked": "^0.6.0",
-    "prompt": "^1.0.0",
-    "puppeteer": "^1.11.0",
-    "snyk": "^1.121.1"
+    "prompt": "^1.2.0",
+    "puppeteer": "^22.8.2",
+    "snyk": "^1.996.0"
   },
   "prettier": {
     "trailingComma": "es5"
